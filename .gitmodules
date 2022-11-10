@@ -1,0 +1,6 @@
+[submodule "scripts/AutoClicker"]
+	path = scripts/AutoClicker
+	url = https://github.com/Tocchetto/AutoClicker.git
+[submodule "deps/AutoitUtils"]
+	path = deps/AutoitUtils
+	url = https://github.com/Tocchetto/AutoitUtils.git
