@@ -4,3 +4,6 @@
 [submodule "deps/AutoitUtils"]
 	path = deps/AutoitUtils
 	url = https://github.com/Tocchetto/AutoitUtils.git
+[submodule "scripts/TextManipulator"]
+	path = scripts/TextManipulator
+	url = https://github.com/Tocchetto/TextManipulator.git
