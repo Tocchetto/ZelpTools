@@ -7,3 +7,6 @@
 [submodule "scripts/TextManipulator"]
 	path = scripts/TextManipulator
 	url = https://github.com/Tocchetto/TextManipulator.git
+[submodule "scripts/CursorInfo"]
+	path = scripts/CursorInfo
+	url = https://github.com/Tocchetto/CursorInfo.git
