@@ -19,3 +19,6 @@
 [submodule "scripts/OSTimeManipulator"]
 	path = scripts/OSTimeManipulator
 	url = https://github.com/Tocchetto/OSTimeManipulator.git
+[submodule "scripts/DataFrameGenerator"]
+	path = scripts/DataFrameGenerator
+	url = https://github.com/Tocchetto/DataFrameGenerator.git
