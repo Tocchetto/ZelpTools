@@ -22,3 +22,6 @@
 [submodule "scripts/DataFrameGenerator"]
 	path = scripts/DataFrameGenerator
 	url = https://github.com/Tocchetto/DataFrameGenerator.git
+[submodule "scripts/MicInputSounds"]
+	path = scripts/MicInputSounds
+	url = https://github.com/Tocchetto/MicInputSounds.git
